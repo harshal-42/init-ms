@@ -1,4 +1,4 @@
-FROM busybox:1.28
+FROM debian:latest
 WORKDIR /
 EXPOSE 8000
 
